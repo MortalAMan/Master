@@ -1,0 +1,12 @@
+.body {
+  font-family: sans-serif;
+  color: gray;
+  text-align: left;
+  margin-top: 100px;
+  margin-right: 400px; 
+  margin-left: 250px;
+}
+
+.player {
+  float: right;
+}

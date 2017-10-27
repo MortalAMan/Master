@@ -10,7 +10,19 @@
   margin-top: 50px;
 }
 .photo1 {
-  width: 900px;
+  width: 800px;
   height: 400px;
   margin-left: 250px;
+  border-color: black;
+}
+
+.bold {
+  color: black;
+  font-size: 14px;
+  margin-right: 155px;
+}
+
+.last {
+  margin-right: 140px;
+  font-size: 14px;
 }
