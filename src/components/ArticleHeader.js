@@ -1,9 +1,9 @@
 import React from 'react';
 import { Image } from 'semantic-ui-react';
 import photo01 from '../images/photo01.jpg';
-import '../css/Header.css';
+import '../css/ArticleHeader.css';
 
-class Header extends React.Component {
+class ArticleHeader extends React.Component {
   render() {
     return (
       <div className='header'>
@@ -17,4 +17,4 @@ class Header extends React.Component {
   }
 }
 
-export default Header;
+export default ArticleHeader;

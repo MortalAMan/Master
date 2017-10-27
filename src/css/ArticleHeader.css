@@ -1,11 +1,12 @@
 .header {
   color:lightgray;
-  font-family: sans-serif;
+  font-family: 'Open Sans', sans-serif;
   text-align: center;
   margin-right: 660px;
   margin-top: 30px;
 }
 .subtitle {
+  font-family: 'Open Sans', sans-serif;
   margin-right: 230px;
   margin-top: 50px;
 }
@@ -17,12 +18,14 @@
 }
 
 .bold {
+  font-family: 'Open Sans', sans-serif;
   color: black;
   font-size: 14px;
   margin-right: 155px;
 }
 
 .last {
+  font-family: 'Open Sans', sans-serif;
   margin-right: 140px;
   font-size: 14px;
 }

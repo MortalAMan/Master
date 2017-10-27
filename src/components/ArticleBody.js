@@ -1,9 +1,9 @@
 import React from 'react';
 import { Grid, Image, Embed } from 'semantic-ui-react';
-import '../css/Body.css';
+import '../css/ArticleBody.css';
 import Jesus from '../images/Jesus.jpg';
 
-class Body extends React.Component {
+class ArticleBody extends React.Component {
   render () {
     return(
       <Grid className='body' celled>
@@ -43,5 +43,5 @@ class Body extends React.Component {
   }
 }
 
-export default Body;
+export default ArticleBody;
   

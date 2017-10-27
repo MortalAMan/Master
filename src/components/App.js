@@ -1,13 +1,13 @@
 import React from 'react';
-import Header from './Header';
-import Body from './Body';
+import ArticleHeader from './ArticleHeader';
+import ArticleBody from './ArticleBody';
 
 class App extends React.Component {
   render() {
     return (
       <div>
-        <Header />
-        <Body />
+        <ArticleHeader />
+        <ArticleBody />
       </div>
     )
   }
